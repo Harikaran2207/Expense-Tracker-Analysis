@@ -94,5 +94,4 @@ python analysis.py
 Author:
 
 Harikaran
-
-Artificial Intelligence and Data Science Student# Expense-Tracker-Analysis
+Artificial Intelligence and Data Science Student
